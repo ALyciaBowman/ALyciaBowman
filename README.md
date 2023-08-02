@@ -6,10 +6,13 @@
   - [osTicket: Prerequisites and Installation](https://github.com/ALyciaBowman/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ALyciaBowman/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ALyciaBowman/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ALyciaBowman/configure-ad)
+- <b>DNS</b>
+  - [Building Intuition for DNS](https:github.com/ALyciaBowman/dns)
+- <b>Network Fileshares and Permissions</b>
+  - [Network Fileshares and Permissions](https:github.com/ALyciaBowman/fileshares)
+- <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ALyciaBowman/azure-network-protocols)
-
-
 
 
